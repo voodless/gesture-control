@@ -2,17 +2,14 @@ A real-time hand gesture recognition system that controls system volume and Spot
 
 
 Controls:
-    Volume:
-        - Thumbs up to increase
-        
-        - Thumbs down to decrease
-
-    Music:
-        - Open palm to play/pause
-        - Pointing up for next track
-        - Closed fist for previous track
-    
-    'q' to quit
+Volume:
+            - Thumbs up to increase
+            - Thumbs down to decrease
+        Music:
+            - Open palm to play/pause
+            - Pointing up for next track
+            - Closed fist for previous track
+        'q' to quit
 
 Prerequisites
 - macOS (AppleScript used for system control)
