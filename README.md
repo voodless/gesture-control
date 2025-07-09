@@ -2,9 +2,12 @@ A real-time hand gesture recognition system that controls system volume and Spot
 
 
 Controls:
-Volume:
+Volume: 
+
             - Thumbs up to increase
+	
             - Thumbs down to decrease
+	
         Music:
             - Open palm to play/pause
             - Pointing up for next track
