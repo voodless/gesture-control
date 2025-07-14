@@ -31,7 +31,7 @@ class HandDetector():
         ]
 
     def run(self):
-        # synchronous setup
+        # asynchronous setup
         options = self.GestureRecognizerOptions(
             base_options=self.BaseOptions(model_asset_path=self.gesture_path),
             running_mode=mp.tasks.vision.RunningMode.IMAGE
